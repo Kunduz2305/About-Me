@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(28, 28, 93);
+}
+
+.con-1 {
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    border-radius: 50px 50px 0px 0px;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+.con-2 {
+    width: 500px;
+    height: 590px;
+    background-color: rgb(93, 193, 223);
+    border-radius: 0px 0px 50px 50px;
+    margin-top: 0px;
+    margin-left: 500px;
+}
+
+.con-3 img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: -100px;
+    margin-left: 150px;
+}
+
+.kas-1 {
+    width: 500px;
+    margin-top: 0px;
+    margin-left: 110px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(38, 38, 109);
+}
+
+.kas-1 p {
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+
+.kas-2 {
+    width: 1000px;
+    height: 1000px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    margin-top: 40px;
+    margin-left: 50px;
+    color: rgb(44, 41, 113);
+}
+
+.kas-2 ul li {
+    margin-bottom: 12px;
+}
+.con-2 .fot img{
+    align-content: ;
+}
+
+.kat {
+    width: 200px;
+    height: 200px;
+
+}
+
+.fot p {
+    width: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    margin-top: -750px;
+    margin-left: 77px;
+    color: rgb(29, 29, 87);
+}
+
+.icon-1 img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    flex-wrap: nowrap;
+    margin-left: 70px;
+    
+}
